@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+h1{
+    color: aquamarine;
+    size: 5px;
+    margin: 10px;
+    scroll-padding: 10%;
+    align-items: center auto 20px;
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+
+}
